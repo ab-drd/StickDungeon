@@ -1,0 +1,21 @@
+sceneSetups:
+- path: Assets/Scenes/MainMenu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Combat.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/PostBattle.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/WinScreen.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/LoseScreen.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
